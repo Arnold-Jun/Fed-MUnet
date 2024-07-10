@@ -1,2 +1,3 @@
+A federated learning framework for brain segmentation with Multimodal Unet.
 
-<img width="222" alt="image" src="https://github.com/Arnold-Jun/Fed-MUnet/assets/162001387/79688e9f-4331-40d0-ad9c-aaf6b2c7a5f6">
+If you want to train or test the model, please first run make_data.py to deal with the MR image.

@@ -1,0 +1,21 @@
+{
+
+	"no_models" : 4,
+
+	"global_epochs" : 50,
+
+	"local_epochs" : 3,
+
+	"k" : 2,
+
+	"lambda" : 1,
+	
+	"C" : 1000,
+	
+	"sigma" : 0.00001,
+	
+	"q" : 0.1,
+	
+	"W" : 1
+}
+
